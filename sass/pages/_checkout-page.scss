@@ -1,0 +1,15 @@
+.main-container{
+    height: 100vw;
+    width: 100vw;
+    padding: 2rem;
+    .mid-container{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 2rem;
+    }
+
+
+.left-container label{
+    display: flex;
+    width: 2rem;
+}
